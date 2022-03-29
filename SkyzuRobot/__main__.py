@@ -84,7 +84,7 @@ PM_START_TEXT = """
 *Hello {} !*
 
 ✪ I can help manage your telegram group with a lot features.
-✪ Maintained by @Reyzuuu ✨
+✪ Maintained by @komunitasvirtual ✨
 
 Hit the /help to see available command.
 """
