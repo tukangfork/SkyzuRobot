@@ -13,7 +13,7 @@ APAKAH_STRING = [
     "YNTKTS",
     "Pala bapak kau pecah",
     "Apa iya?",
-    "Tanya aja sama mamak kau tu pler",
+    "Tanya aja sama mamak kau",
 ]
 
 
